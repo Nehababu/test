@@ -8,6 +8,7 @@ namespace TestOne.Controllers
     public class Student
     {
         public string Name { get; set; }
+        public string City { get; set; }
         public string Branch { get; set; }
     }
 }
