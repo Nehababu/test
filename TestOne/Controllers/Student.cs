@@ -9,5 +9,8 @@ namespace TestOne.Controllers
     {
         public string Name { get; set; }
         public string City { get; set; }
+        public string Lstname { get; set; }
+        public string Branch { get; set; }
+        public string ght { get; set; }
     }
 }
